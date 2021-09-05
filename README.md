@@ -5,17 +5,17 @@ This project is a top down shooter game which is being built using Pygame.
 
 ## Terminology
 
+Pygame - 
+
 ## Usage
 ```python packages
-pip install pysimplegui
-pip install pillow
+pip install pygame
 ```
 
 ```python
-import PySimpleGUI as sg
-import os
-from PIL import Image, ImageTk
-import io
+import pygame
+import sys
+import math
 ```
 
 ## Contributing
